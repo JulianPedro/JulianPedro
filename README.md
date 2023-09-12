@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A software engineer and enthusiastic in Web Development and DevOps.</h3>
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianpedro&label=Profile%20views&color=0e75b6&style=flat" alt="julianpedro" /> </p>
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianpedro" alt="julianpedro" /></a> </p>
 
