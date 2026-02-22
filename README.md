@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp"  />
-
-###
-
 <p align="left">A software engineer and enthusiastic in Web Development and DevOps.</p>
 
 ###
